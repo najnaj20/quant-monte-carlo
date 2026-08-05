@@ -44,4 +44,4 @@ Setelah 3 file ini lancar, lanjut pelajari:
 - Variance reduction: antithetic variates, control variates
 
 ---
-*Repo terpisah dari portfolio Data Engineering. Ini murni quant learning track.*
+*Belajar quant*
